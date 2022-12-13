@@ -1,7 +1,7 @@
 unfolding_app_template and UC San Diego/Coursera MOOC starter code
 ==================================================================
 
-The final result is an An application with an interactive map displaying real-time earthquake data.
+The final result is an an application with an interactive map displaying real-time earthquake data.
 
 
 This is a skeleton to use Unfolding in Eclipse as well as some starter
